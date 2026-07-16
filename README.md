@@ -1,12 +1,27 @@
-## About Me
+<div align="center">
 
-I am a Data Scientist with a professional background in SAP consulting and enterprise business processes.
+# Hi, I'm Ferides 👋
 
-My work focuses on combining Data Science, Artificial Intelligence and Machine Learning with practical business requirements.
+### Data Scientist | AI & Machine Learning | SAP S/4HANA
+
+</div>
+
+---
+
+## Professional Profile
+
+I am a Data Scientist with a professional background in SAP consulting, enterprise business processes and digital transformation.
+
+My work combines data-driven technologies with practical business requirements to develop scalable and business-oriented solutions.
 
 - Building end-to-end Data Science and Machine Learning projects
 - Working with Deep Learning, LLMs, NLP and Computer Vision
 - Using Docker, Kubernetes, Git and GitHub for deployment and MLOps
 - Experienced in SAP S/4HANA, particularly SD, MM, PP and logistics processes
 - Interested in connecting Artificial Intelligence with enterprise systems
-- Focused on developing practical, scalable and business-oriented solutions
+
+---
+
+## Core Expertise
+
+`Data Science` `Machine Learning` `Deep Learning` `LLMs` `NLP` `Computer Vision` `MLOps` `SAP S/4HANA`
