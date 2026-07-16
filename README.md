@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ferides Yazar 👋
+# Hi, I'm Ferides 👋
 
 ### Data Scientist | AI & Machine Learning | SAP S/4HANA
 
