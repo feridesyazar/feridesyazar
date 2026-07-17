@@ -60,6 +60,4 @@ I am a Data Scientist with a professional background in SAP consulting and enter
 
 ---
 
-## 📫 Contact
 
-LinkedIn, portfolio and project links will be added soon.
