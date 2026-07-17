@@ -2,7 +2,7 @@
 
 # Hi, I'm Ferides 👋
 
-### Data Scientist | AI & Machine Learning | SAP S/4HANA
+### Data Scientist | AI & Machine Learning | SAP S/4HANA Consultant
 
 </div>
 
