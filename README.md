@@ -50,7 +50,6 @@ Alongside my Data Science and AI work, I have extensive experience in SAP consul
 ![SAP](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ---
----
 
 ## 🌱 Currently Learning
 
