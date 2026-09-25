@@ -27,13 +27,12 @@ I am a Data Scientist with a professional background in SAP consulting and enter
 Alongside my Data Science and AI work, I have extensive experience in SAP consulting and enterprise process transformation.
 
 - **SAP S/4HANA:** Greenfield, rollout and transformation projects
-- **Core Modules:** SD, MM, PP, LE, EWM and TM
+- **Core Modules:** SD, MM, PP and EWM
 - **Business Processes:** Order-to-Cash (O2C), Procure-to-Pay (P2P), logistics and supply chain
-- **Utilities & Energy:** SAP Utilities / IS-U, metering, billing and market communication
+- **Utilities & Energy:** SAP Utilities / IS-U and energy industry processes
 - **Integration:** IDoc, EDI, APIs and SAP/non-SAP interfaces
-- **Project Work:** Requirements analysis, testing, documentation, process improvement, go-live and hypercare
 
-`SAP S/4HANA` `SD` `MM` `PP` `LE` `EWM` `TM` `SAP Utilities` `O2C` `P2P`
+`SAP S/4HANA` `SD` `MM` `PP` `EWM` `SAP Utilities`
 
 ---
 
