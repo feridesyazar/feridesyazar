@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a Data Scientist with a professional background in SAP consulting and enterprise business processes.
+I am a Data Scientist with a professional background in SAP consulting and enterprise business processes
 
 - 📊 Building end-to-end Data Science and Machine Learning projects
 - 🧠 Working with Deep Learning, LLMs, NLP and Computer Vision
@@ -24,7 +24,7 @@ I am a Data Scientist with a professional background in SAP consulting and enter
 
 ## 🏢 SAP & Enterprise Experience
 
-Alongside my Data Science and AI work, I have extensive experience in SAP consulting and enterprise process transformation.
+Alongside my Data Science and AI work, I have extensive experience in SAP consulting and enterprise process transformation
 
 - **SAP S/4HANA:** Greenfield, rollout and transformation projects
 - **Core Modules:** SD, MM, PP and EWM
