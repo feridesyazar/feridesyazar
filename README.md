@@ -1,38 +1,33 @@
 # Hi, I'm Ferides 👋
 
-### Data Scientist | AI & Machine Learning | SAP S/4HANA Consultant
+### Data Science · Machine Learning · Deep Learning · AI
+
+I work on practical **Data Science and AI projects**, covering machine learning, deep learning, computer vision, NLP, and model deployment.
+
+My projects focus on complete workflows — from **data preparation and exploratory analysis to model training, evaluation, and interactive applications**.
+
+My professional background in **SAP S/4HANA and enterprise processes** also gives me a strong business and process-oriented perspective when working with data and AI.
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-I am a Data Scientist with a professional background in SAP consulting and enterprise business processes
+| Project | What it demonstrates |
+| --- | --- |
+| [Brain Tumor MRI Classification](https://github.com/feridesyazar/brain-tumor-classification-app) | Deep learning image classification with TensorFlow/Keras and an interactive application. |
+| [Indian Birds Species Classifier](https://github.com/feridesyazar/indian-birds-species-classifier) | Multi-class image classification using ResNet50V2 and transfer learning. |
+| [Pistachio Image Classification](https://github.com/feridesyazar/pistachio-image-classification-transfer-learning) | MobileNetV2 transfer learning for binary image classification. |
+| [Malaria Detection](https://github.com/feridesyazar/deep-learning-malaria-detection) | CNN-based medical image classification. |
+| [Insurance Claim Classification](https://github.com/feridesyazar/insurance-claim-classification) | Binary classification with imbalanced data handling and Random Forest. |
+| [Metro Traffic Volume Regression](https://github.com/feridesyazar/metro-traffic-volume-regression) | Regression workflow for traffic-volume prediction. |
 
-- 📊 Building end-to-end Data Science and Machine Learning projects
-- 🧠 Working with Deep Learning, LLMs, NLP and Computer Vision
-- ⚙️ Using Docker, Kubernetes, Git and GitHub for deployment and MLOps
-- 🏢 Experienced in SAP S/4HANA and integrated enterprise processes
-- 🎯 Focused on developing practical, scalable and business-oriented AI solutions
+➡️ [Explore all repositories](https://github.com/feridesyazar?tab=repositories)
 
 ---
 
 ## 🧠 Focus Areas
 
-`Data Science` `Machine Learning` `Deep Learning` `LLMs` `NLP` `Computer Vision` `MLOps` `SAP S/4HANA`
-
----
-
-## 🏢 SAP & Enterprise Experience
-
-Alongside my Data Science and AI work, I have extensive experience in SAP consulting and enterprise process transformation
-
-- **SAP S/4HANA:** Greenfield, rollout and transformation projects
-- **Core Modules:** SD, MM, PP and EWM
-- **Business Processes:** Order-to-Cash (O2C), Procure-to-Pay (P2P), logistics and supply chain
-- **Utilities & Energy:** SAP Utilities / IS-U and energy industry processes
-- **Integration:** IDoc, EDI, APIs and SAP/non-SAP interfaces
-
-`SAP S/4HANA` `SD` `MM` `PP` `EWM` `SAP Utilities`
+`Data Science` `Machine Learning` `Deep Learning` `Computer Vision` `NLP` `LLMs` `RAG` `AI Agents` `MLOps`
 
 ---
 
@@ -47,13 +42,58 @@ Alongside my Data Science and AI work, I have extensive experience in SAP consul
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 📂 Project Areas
+
+### Computer Vision & Deep Learning
+
+Image classification · CNNs · Transfer Learning · TensorFlow/Keras · Medical Imaging
+
+### Machine Learning
+
+Classification · Regression · Imbalanced Data · Feature Engineering · Model Evaluation
+
+### NLP & Generative AI
+
+Natural Language Processing · Large Language Models · RAG · AI Agents
+
+### Data Analysis
+
+Exploratory Data Analysis · Data Visualization · Statistical Analysis · Data Preparation
+
+---
+
+## 💼 Professional Background
+
+Alongside my Data Science and AI work, I have professional experience in **SAP S/4HANA consulting and enterprise process transformation**.
+
+My SAP background includes **SD, MM, PP, EWM, logistics, supply chain processes, system integration, and enterprise applications**.
+
+`SAP S/4HANA` `SD` `MM` `PP` `EWM`
+
+---
+
+## 🌱 Current Focus
+
+I am currently expanding my work in:
 
 - Large Language Models and RAG
 - AI Agents
-- Advanced MLOps
-- Cloud-based Machine Learning Deployment
+- Computer Vision
+- MLOps and model deployment
+- Interactive AI applications
+- Integration of AI with enterprise systems
+
+---
+
+## 📚 Portfolio
+
+You can find my complete collection of Data Science and AI projects here:
+
+👉 [View all GitHub repositories](https://github.com/feridesyazar?tab=repositories)
+
+---
+
+Thanks for visiting my profile.
