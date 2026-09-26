@@ -12,7 +12,7 @@ My professional background in **SAP S/4HANA and enterprise processes** also give
 
 ## 🚀 Featured Projects
 
-| Project | What it demonstrates |
+| Project | Technical Focus |
 | --- | --- |
 | [Brain Tumor MRI Classification](https://github.com/feridesyazar/brain-tumor-classification-app) | Deep learning image classification with TensorFlow/Keras and an interactive application. |
 | [Indian Birds Species Classifier](https://github.com/feridesyazar/indian-birds-species-classifier) | Multi-class image classification using ResNet50V2 and transfer learning. |
