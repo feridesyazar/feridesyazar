@@ -96,4 +96,4 @@ You can find my complete collection of Data Science and AI projects here:
 
 ---
 
-Thanks for visiting my profile.
+Thanks for visiting my profile
